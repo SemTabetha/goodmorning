@@ -1,0 +1,28 @@
+@font-face {
+	font-family: 'coneriascriptregular';
+	src: url('fonts/coneriascript-webfont.eot');
+	src: url('fonts/coneriascript-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('fonts/coneriascript-webfont.woff') format('woff'),
+		 url('fonts/coneriascript-webfont.ttf') format('truetype'),
+		 url('fonts/coneriascript-webfont.svg#coneriascriptregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+div.head{
+	margin:auto;
+	margin-top: 200px;
+	width:1000px;
+	font-size:50px;
+	text-align: center;
+	font-family: coneriascriptregular;
+}
+#txt{
+	font-size: 100pt;
+}
+body{
+	background-color: black;
+	color: white;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+}
